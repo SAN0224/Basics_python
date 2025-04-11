@@ -1,3 +1,3 @@
 # Basics_python
 
-python programming language
+python example
